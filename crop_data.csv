@@ -1,0 +1,13 @@
+State,District,Soil_Type,Crop,Avg_Rainfall,Avg_Temp
+Punjab,Ludhiana,Loamy,Wheat,700,24
+Punjab,Ludhiana,Clayey,Rice,700,24
+Rajasthan,Jaisalmer,Sandy,Millet (Bajra),250,28
+Karnataka,Mysore,Clayey,Rice,1200,27
+Karnataka,Raichur,Black,Cotton,600,29
+West Bengal,South 24 Parganas,Loamy,Jute,1800,26
+Kerala,Ernakulam,Laterite,Coconut,3000,27
+Maharashtra,Nashik,Black,Graps (Wine),900,26
+Andhra Pradesh,Guntur,Black,Chilli (Red),1000,29
+Haryana,Hisar,Loamy,Wheat,450,26
+Tamil Nadu,Thanjavur,Clayey,Rice,1100,29
+Gujarat,Kutch,Sandy,Cumin,400,28
